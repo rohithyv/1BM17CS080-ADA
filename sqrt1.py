@@ -26,7 +26,7 @@ def sqrt(x) :
               
     return ans 
   
-x=12
- 
+x = int(input("Enter the value\n"))
+print(sqrt(x))
 
-print(sqrt(x)) 
+
