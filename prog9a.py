@@ -21,4 +21,4 @@ def coin_change(d, n, k):
 if __name__ == '__main__':
   # array starting from 1, element at index 0 is fake
   d = [0, 1, 2, 3]
-  print(coin_change(d, 10, 3)) #to make 5. Number of denominations = 3
+  print(coin_change(d, 10, 3)) #to make 10. Number of denominations = 3
